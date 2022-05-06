@@ -1,2 +1,0 @@
-# bookshop
-my bookshop
